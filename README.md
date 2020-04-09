@@ -1,4 +1,4 @@
-# Anime_Recommendation
+# Anime Recommendation
 
 The project is a content based anime recommender system.
 
